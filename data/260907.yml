@@ -5,13 +5,13 @@ about:
   head: da3f9c5
   archived: false
   latestVersion: "v1.20.1"
-  collectedAt: 2026-09-07T05:06:17Z
+  collectedAt: 2026-09-07T19:27:51Z
 timeline:
   created: 2022-09-13
   lastCommit: 2022-11-28
   lastRelease: 2022-10-30
 popularity:
-  star: 339
+  star: 340
   watcher: 2
   fork: 21
   release: 5
@@ -79,7 +79,7 @@ total:
   commit: 85
 ---
 path: /home/runner/.x-repo/github.com/nore-dev/fman
-collectedAt: 2026-09-07T05:06:18Z
+collectedAt: 2026-09-07T19:27:52Z
 loc:
   Go:
     code: 1822
@@ -105,7 +105,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:06:19+00:00
+  collectedAt: 2026-09-07T19:27:55+00:00
   platform:
     darwin/arm64:
       name:  fman_1.20.1_darwin_arm64.tar.gz
