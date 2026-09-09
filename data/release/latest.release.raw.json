@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 2872704,
       "digest": null,
-      "download_count": 1478,
+      "download_count": 1480,
       "created_at": "2022-10-30T18:28:58Z",
       "updated_at": "2022-10-30T18:29:00Z",
       "browser_download_url": "https://github.com/nore-dev/fman/releases/download/v1.20.1/fman_1.20.1_linux_amd64.tar.gz"
