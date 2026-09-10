@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.20.1"
   latestRelease: "v1.20.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T17:01:37Z
+  collectedAt: 2026-09-10T21:40:06Z
 timeline:
   created: 2022-09-13
   lastCommit: 2022-11-28
@@ -83,7 +83,7 @@ total:
   commit: 85
 ---
 path: /home/runner/.x-repo/github.com/nore-dev/fman
-collectedAt: 2026-09-10T17:01:38Z
+collectedAt: 2026-09-10T21:40:07Z
 loc:
   Go:
     code: 1822
